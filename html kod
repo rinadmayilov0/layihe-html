@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <title>Haqqımızda</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+
+    <div class="ana-qutu">
+        
+        <div class="ust-hisse">
+            <div class="bayraq">
+                <span class="mavi"></span>
+                <span class="qirmizi"></span>
+                <span class="yasil"></span>
+            </div>
+            <h1>Haqqımızda</h1>
+            <p>Milli Qəhrəmanlarımızın xatirəsini əbədiləşdirmək məqsədi ilə yaradılmış rəsmi xatirə portalı</p>
+        </div>
+
+        <div class="meqsed-bloku">
+            <div class="metn">
+                <div class="basliq-ikon">
+                    <span class="ikon-goy"><i class="fa-solid fa-crosshairs"></i></span>
+                    <h2>Məqsədimiz</h2>
+                </div>
+                <p>Bu portal Azərbaycan Respublikasının ərazi bütövlüyü, müstəqilliyi və suverenliyi uğrunda igidliklə döyüşərək şəhid olmuş və ya müstəsna xidmətlər göstərmiş vətənpərvər oğul və qızlarının xatirəsini əbədiləşdirmək məqsədi ilə yaradılmışdır.</p>
+                <p>Hər bir qəhrəmanımızın həyat yolu, ailə məlumatları, qazandıqları orden və medallar, döyüşdükləri yerlər haqqında ətraflı məlumatlar toplanaraq gələcək nəsillər üçün qorunub saxlanılır.</p>
+            </div>
+            <div class="sekil-taraf">
+                <div class="kart-sekil">
+                    <div class="zoom-yeri">
+                        <img src="photo-1761170661370-ccddd01a7d46.jpg" alt="Şəkil">
+                    </div>
+                    <p class="sitat">"Qəhrəmanlarımız fiziki olaraq aramızda olmasa da, onların xatirəsi və göstərdikləri şücaət hər zaman xalqımızın qəlbində yaşayacaq."</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="deyerler">
+            <h2 class="deyer-basliq">Əsas Dəyərlərimiz</h2>
+            <div class="kartlar">
+                <div class="box">
+                    <span class="daire d-mavi"><i class="fa-regular fa-heart"></i></span>
+                    <h3>Ehtiram</h3>
+                    <p>Qəhrəmanlarımıza və onların ailələrinə dərin hörmət və ehtiram göstərmək</p>
+                </div>
+                <div class="box">
+                    <span class="daire d-qirmizi"><i class="fa-solid fa-shield-halved"></i></span>
+                    <h3>Xatirə</h3>
+                    <p>Qəhrəmanlarımızın xatirəsini gələcək nəsillər üçün qoruyub saxlamaq</p>
+                </div>
+                <div class="box">
+                    <span class="daire d-yasil"><i class="fa-solid fa-box-archive"></i></span>
+                    <h3>Arxiv</h3>
+                    <p>Dəqiq və etibarlı məlumatların toplanması və saxlanması</p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+</html>
